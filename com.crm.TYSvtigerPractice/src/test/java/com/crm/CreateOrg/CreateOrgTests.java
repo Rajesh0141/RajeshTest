@@ -16,4 +16,8 @@ public class CreateOrgTests {
 	public void Raj() {
 		System.out.println("Raj is created method ");
 	}
+	@Test
+	public void createContact() {
+		System.out.println("Rajesh is Update this msg");
+	}
 }
