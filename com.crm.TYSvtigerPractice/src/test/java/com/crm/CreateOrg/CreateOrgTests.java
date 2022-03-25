@@ -12,4 +12,8 @@ public class CreateOrgTests {
 		
 		System.out.println("hii");
 	}
+	@Test
+	public void Raj() {
+		System.out.println("Raj is created method ");
+	}
 }
